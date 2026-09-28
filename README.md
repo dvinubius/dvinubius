@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.54acdbf.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.15171c4.jpg">
-  <img alt="[ Dinu Barbu ] — Senior software engineer. Distributed systems &amp; observability." src="assets/banner-dark.54acdbf.jpg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.64686c4.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.189fafb.jpg">
+  <img alt="[ Dinu Barbu ] — Senior software engineer. Distributed systems &amp; observability." src="assets/banner-dark.64686c4.jpg" width="100%">
 </picture>
 
 Much of my recent work has been message-driven systems and long-running workflows: the parts where
