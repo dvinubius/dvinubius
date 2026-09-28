@@ -1,6 +1,8 @@
-### Dinu Barbu
-
-Senior software engineer — distributed systems and observability.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.e3d0d76.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.8fa0703.jpg">
+  <img alt="[ Dinu Barbu ] — Senior software engineer. Distributed systems &amp; observability." src="assets/banner-dark.e3d0d76.jpg" width="100%">
+</picture>
 
 Much of my recent work has been message-driven systems and long-running workflows: the parts where
 retries, partial failure and concurrency decide whether a system can be trusted.
