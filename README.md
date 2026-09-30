@@ -16,7 +16,7 @@ Two public Go services and the shared infrastructure under them, all instrumente
   metrics, logs shipped to Loki through Alloy, Grafana dashboards provisioned from the
   repo, and a public live dashboard. [zibs.app](https://zibs.app)
 - [**hooklook**](https://github.com/dvinubius/hooklook) · webhook inspector. A Go backend
-  serving a Vue frontend, deployed through CI, with the same observability stack.
+  serving a Vue frontend, deployed through CI, with the same observability stack, and a public dashboard of its own.
   [hooklook.app](https://hooklook.app)
 - [**hetzner-one**](https://github.com/dvinubius/hetzner-one) · shared ingress for both.
   Caddy with TLS, routing and rate limits, plus host and proxy metrics in Prometheus and
